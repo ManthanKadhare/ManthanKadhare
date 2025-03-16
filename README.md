@@ -22,8 +22,6 @@ Building interactive web applications
 
 📫 How to Reach Me
 
-GitHub: ManthanKadhare
-
 Email: manthankadhare@gmail.com
 
 
